@@ -1,0 +1,32 @@
+#imgfirst {
+  margin-top: 50px;
+  margin-bottom: 60px;
+   
+}
+
+.words {
+  font-family: 'Amatic SC';
+  background-color: white;
+
+}
+
+#heading {
+  background-image: url("http://dreamtexltd.com/wp-content/uploads/2015/09/ADVENTURE-TIME-bg-pattern-image.jpg");
+  
+  background-size: 100% auto;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+body {
+  font-family: 'Gloria Hallelujah';
+  background: #648880;
+  background: linear-gradient(to right, #009DDC, #FEB824);
+}
+.jumbotron {
+  margin-top: 30px;
+}
+body {
+     : url("http://fc06.deviantart.net/fs70/f/2013/044/4/b/adventure_time_by_tompreston-d5uk0m5.jpg");
+  background-repeat: no-repeat;
+}
